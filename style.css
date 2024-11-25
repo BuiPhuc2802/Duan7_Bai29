@@ -1,0 +1,30 @@
+h1 {
+  color: blue;
+}
+p {
+  font-size: 20px;
+}
+#doan-van-2 {
+  color: red;
+}
+.p4 {
+  color: yellow;
+}
+.demo {
+  color: green;
+}
+#list1 {
+  text-transform: uppercase;
+  line-height: 2;
+  list-style: none;
+}
+
+h2,
+#vd1 {
+  color: blue;
+  font-style: oblique;
+}
+
+.vd2.vd3 {
+  color: aquamarine;
+}
